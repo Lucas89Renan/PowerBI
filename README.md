@@ -1,5 +1,6 @@
 # PowerBI
 Alguns pequenos projetos que serviram para praticar;
+Este é um exemplo de um deles.
 
 Análise de campanhas de marketing em diferentes visões.
 
